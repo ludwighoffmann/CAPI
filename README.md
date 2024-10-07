@@ -1,4 +1,4 @@
-This is the code necessary to run and analyze the main simulations of arXiv:2308.09992. Under CC0 license.
+This is the code necessary to run and analyze the main simulations of S. Riedel, L. A. Hoffmann, L. Giomi, D. Kraft, Designing highly efficient interlocking interactions in anisotropic active particles, Nat. Comm. 15, 5692 (2024). doi.org/10.1038/s41467-024-49955-x. Under CC0 license.
 
 Python 3 code, tested on Mac and Linux with Python 3.11. Modifying the number of particles as well as the opening angle in the main simulation file allows to simulate the different densities and shapes described in the paper. Running the simulation code will produce csv files which contain the coordiantes of each particle over time. This can be analyzed to find the clustering dynamics. The conversion from particles to densities is described in the paper.
 
